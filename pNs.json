@@ -1,0 +1,83 @@
+
+  {
+    "name": "Company Name",
+    "description": "generic description",
+    "children": [{
+        "name": "Managed Services",
+        "description": "generic description",
+        "children": [{
+            "name": "Admins",
+            "description": "generic description"
+          },
+          {
+            "name": "Support",
+            "description": "generic description",
+            "children": [{
+                "name": "Desktop Management",
+                "description": "generic description"
+              },
+              {
+                "name": "Network Performance",
+                "description": "generic description"
+              },
+              {
+                "name": "?Coffee?",
+                "description": "generic description"
+              },
+              {
+                "name": "Online Help",
+                "description": "generic description",
+                "children": [{
+                  "name": "Pro Package",
+                  "description": "generic description"
+                }]
+              }
+            ]
+          },
+          {
+            "name": "Internal Collection",
+            "description": "generic description"
+          },
+          {
+            "name": "Weekly Collection",
+            "description": "generic description"
+          },
+          {
+            "name": "Cameras",
+            "description": "generic description",
+            "children": [{
+                "name": "Ok Cameras",
+                "description": "generic description"
+              },
+              {
+                "name": "Really Good Cameras",
+                "description": "generic description"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Phone Systems",
+        "description": "generic description",
+        "children": [{
+            "name": "Not So sophisticaed Phones",
+            "description": "generic description"
+          },
+          {
+            "name": "Really Sophisticated Phones",
+            "description": "generic description",
+            "children": [{
+                "name": "Like our best Phones ever",
+                "description": "generic description"
+              },
+              {
+                "name": "Pretty Good but not the best",
+                "description": "generic description"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
